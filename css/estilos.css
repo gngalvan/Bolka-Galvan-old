@@ -13,9 +13,6 @@
 	color: black;
 	background-color: azure;
 }
-.efecto:hover{
-	transform: scale(1.1);
-}
 
 
 /* diseño general */
@@ -48,6 +45,10 @@ h2{
 img{
 	width: 100%;
 }
+.efecto:hover{
+	transform: scale(1.1);
+}
+
 
 
 
